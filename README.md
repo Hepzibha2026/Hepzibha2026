@@ -115,7 +115,7 @@ class Hepzibha:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1e1b4b?style=for-the-badge&logo=x&logoColor=a78bfa)](https://twitter.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1e1b4b?style=for-the-badge&logo=x&logoColor=a78bfa)](https://x.com/Hepzibha2026)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://github.com/Hepzibha2026)
 [![Gmail](https://img.shields.io/badge/Gmail-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:hepzibha2026@gmail.com)
 
