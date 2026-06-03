@@ -49,7 +49,7 @@ class Hepzibha:
 
 <div align="center">
 
-### ⚡ AI / ML Stack
+### ⚡ Agentic AI / AI Agent / GenAI / ML Stack
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1e1b4b?style=for-the-badge&logo=openai&logoColor=a78bfa)
 ![LangChain](https://img.shields.io/badge/LangChain-1e1b4b?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
