@@ -27,7 +27,7 @@
 
 ## 🌌 Who Am I?
 
-<h2>I am full stack AI developer</h2>
+<h2>I am a full stack AI developer</h2>
 
 <br clear="right"/>
 
