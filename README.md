@@ -27,16 +27,7 @@
 
 ## 🌌 Who Am I?
 
-<div>
-  "AI Full Stack Developer"  
-   ["AI", "LLMs", "Beautiful UIs"]
-   "Building AI-powered apps"
-    ["Agentic AI", "RAG Systems"]
-    "Anything AI + Full Stack! 🤖"
-    "I speak fluent Python & sarcasm"
-
-    "Let's build something extraordinary ✨"
-</div>
+<h2>I am full stack AI developer</h2>
 
 <br clear="right"/>
 
