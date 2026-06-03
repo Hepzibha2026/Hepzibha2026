@@ -28,6 +28,7 @@
 ## 🌌 Who Am I?
 
 ```python
+```
 class Hepzibha:
     def __init__(self):
         self.role      = "AI Full Stack Developer"
@@ -39,7 +40,7 @@ class Hepzibha:
 
     def greet(self):
         return "Let's build something extraordinary ✨"
-```
+
 
 <br clear="right"/>
 
