@@ -76,13 +76,13 @@ class Hepzibha:
 
 ## 📊 GitHub Story
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hepzibha2026&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepzibha2026&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&text_color=e2e8f0" />
 
-</div>
+</div> -->
 
 <div align="center">
 
