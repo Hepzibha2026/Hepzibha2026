@@ -27,22 +27,15 @@
 
 ## 🌌 Who Am I?
 
-```python
-
-class Hepzibha:
-    def __init__(self):
-        self.role      = "AI Full Stack Developer"
-        self.passion   = ["AI", "LLMs", "Beautiful UIs"]
-        self.currently = "Building AI-powered apps"
-        self.learning  = ["Agentic AI", "RAG Systems"]
-        self.ask_me    = "Anything AI + Full Stack! 🤖"
-        self.fun_fact  = "I speak fluent Python & sarcasm"
-
-    def greet(self):
-        return "Let's build something extraordinary ✨"
-```
 <div>
-  "AI Full Stack Developer\n"  
+  "AI Full Stack Developer"  
+   ["AI", "LLMs", "Beautiful UIs"]
+   "Building AI-powered apps"
+    ["Agentic AI", "RAG Systems"]
+    "Anything AI + Full Stack! 🤖"
+    "I speak fluent Python & sarcasm"
+
+    "Let's build something extraordinary ✨"
 </div>
 
 <br clear="right"/>
