@@ -11,7 +11,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Developer+%F0%9F%A4%96;Building+the+future+with+AI+%2B+Code+%F0%9F%9A%80;Turning+ideas+into+intelligent+systems+%E2%9C%A8;From+pixels+to+production+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Developer+UI/UX+Designer+%F0%9F%A4%96;Building+the+future+with+AI+%2B+Code+%F0%9F%9A%80;Turning+ideas+into+intelligent+systems+%E2%9C%A8;From+pixels+to+production+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
 
